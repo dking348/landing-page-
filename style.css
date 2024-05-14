@@ -7,7 +7,7 @@
 }
 section{
     min-height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)), url("pic1.jpeg");
+    background-image:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)), url("pic.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
